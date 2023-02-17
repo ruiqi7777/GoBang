@@ -1,0 +1,10 @@
+﻿  GoBang.cpp
+D:\源代码\GoBang\GoBang\GoBang.cpp(25,35): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\源代码\GoBang\GoBang\GoBang.cpp(27,36): warning C4305: “初始化”: 从“__int64”到“long double”截断
+D:\源代码\GoBang\GoBang\GoBang.cpp(28,35): warning C4305: “初始化”: 从“__int64”到“long double”截断
+D:\源代码\GoBang\GoBang\GoBang.cpp(136,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\源代码\GoBang\GoBang\GoBang.cpp(147,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\源代码\GoBang\GoBang\GoBang.cpp(158,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\源代码\GoBang\GoBang\GoBang.cpp(169,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\源代码\GoBang\GoBang\GoBang.cpp(631,37): warning C4305: “初始化”: 从“__int64”到“long double”截断
+  GoBang.vcxproj -> D:\源代码\GoBang\x64\Debug\GoBang.exe
